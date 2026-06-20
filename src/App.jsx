@@ -191,7 +191,7 @@ function LoginScreen({ onLogin, t, darkMode, setDarkMode }) {
             <input
               value={username}
               onChange={e => setUsername(e.target.value)}
-              placeholder="me  or  zharmina"
+              placeholder="muhajir123"
               autoCapitalize="none"
               style={inp(t)}
             />
